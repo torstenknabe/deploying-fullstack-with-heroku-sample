@@ -6,3 +6,5 @@ Make sure to follow the steps as outlined in the article to see how to use Herok
 If you're curious about the app itself feel free to poke around. The server files are located in the root folder. The `/build` folder contains the production code that was created from the front-end folder found in `/client`.
 
 You're free to make changes on your own branch, but for the sake of consistency, we will not be merging any external pull requests. Thank you and happy coding!
+
+New line test
